@@ -15,3 +15,5 @@ You have different options:
 Be creative! Find a dataset that is inspiring to you and find a way to inspire other people by using data visualization techniques!
 
 # MRI to detect Alzheimers and Dementia
+
+The dataset I chose is from OASIS, an organization making MRI data publicly available for research. This set is focused on patients with Dementia and Alzheimer's Disease. 
