@@ -17,3 +17,13 @@ Be creative! Find a dataset that is inspiring to you and find a way to inspire o
 # MRI to detect Alzheimers and Dementia
 
 The dataset I chose is from OASIS, an organization making MRI data publicly available for research. This set is focused on patients with Dementia and Alzheimer's Disease. 
+
+------------------------------------------------------------------------------------------------
+# Feedback: 
+------------------------------------------------------------------------------------------------
+
+| Section | Mark | 
+|---|---| 
+| Total/100% | 100% | 
+
+Awesome dataset and work my bru, loving the regression graphs. Would be cool to chat to you about your findings if you have time!
